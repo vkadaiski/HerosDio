@@ -1,0 +1,13 @@
+C:\Users\vkada\Desktop\meu projetos\Heros\HerosDIO\obj\Debug\netcoreapp3.1\HerosDIO.csprojAssemblyReference.cache
+C:\Users\vkada\Desktop\meu projetos\Heros\HerosDIO\obj\Debug\netcoreapp3.1\HerosDIO.AssemblyInfoInputs.cache
+C:\Users\vkada\Desktop\meu projetos\Heros\HerosDIO\obj\Debug\netcoreapp3.1\HerosDIO.AssemblyInfo.cs
+C:\Users\vkada\Desktop\meu projetos\Heros\HerosDIO\obj\Debug\netcoreapp3.1\HerosDIO.csproj.CoreCompileInputs.cache
+C:\Users\vkada\Desktop\meu projetos\Heros\HerosDIO\bin\Debug\netcoreapp3.1\HerosDIO.exe
+C:\Users\vkada\Desktop\meu projetos\Heros\HerosDIO\bin\Debug\netcoreapp3.1\HerosDIO.deps.json
+C:\Users\vkada\Desktop\meu projetos\Heros\HerosDIO\bin\Debug\netcoreapp3.1\HerosDIO.runtimeconfig.json
+C:\Users\vkada\Desktop\meu projetos\Heros\HerosDIO\bin\Debug\netcoreapp3.1\HerosDIO.runtimeconfig.dev.json
+C:\Users\vkada\Desktop\meu projetos\Heros\HerosDIO\bin\Debug\netcoreapp3.1\HerosDIO.dll
+C:\Users\vkada\Desktop\meu projetos\Heros\HerosDIO\bin\Debug\netcoreapp3.1\HerosDIO.pdb
+C:\Users\vkada\Desktop\meu projetos\Heros\HerosDIO\obj\Debug\netcoreapp3.1\HerosDIO.dll
+C:\Users\vkada\Desktop\meu projetos\Heros\HerosDIO\obj\Debug\netcoreapp3.1\HerosDIO.pdb
+C:\Users\vkada\Desktop\meu projetos\Heros\HerosDIO\obj\Debug\netcoreapp3.1\HerosDIO.genruntimeconfig.cache
